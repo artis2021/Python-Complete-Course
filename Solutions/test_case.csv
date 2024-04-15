@@ -1,0 +1,23 @@
+Example of Test Case,Input,,
+Date,Time In,Time Out same day or next day,Event
+8-Apr-24,9:00 AM,3:00 PM,
+9-Apr-24,2:00 PM,10:00 PM,
+10-Apr-24,12:00 AM,1:00 PM,
+11-Apr-24,3:12 AM,2:48 PM,
+12-Apr-24,8:10 AM,5:22 PM,
+13-Apr-24,10:30 AM,1:30 PM,National Holiday
+14-Apr-24,9:02 AM,8:40 PM,
+15-Apr-24,10:00 PM,7:36 PM,
+16-Apr-24,5:00 AM,1:30 PM,
+17-Apr-24,2:46 PM,10:30 PM,
+18-Apr-24,12:12 AM,7:40 AM,
+19-Apr-24,10:40 PM,6:40 AM,
+20-Apr-24,2:00 PM,10:00 PM,
+21-Apr-24,10:30 AM,7:36 PM,
+22-Apr-24,4:12 AM,8:36 AM,
+23-Apr-24,5:12 AM,9:36 AM,
+24-Apr-24,6:12 AM,10:36 AM,National Holiday
+25-Apr-24,7:12 AM,11:36 AM,
+26-Apr-24,8:12 AM,12:36 PM,
+27-Apr-24,9:12 AM,1:36 PM,
+28-Apr-24,10:12 AM,2:36 PM,
